@@ -4,5 +4,5 @@ type Joke = {
   Body: string;
   Author: string;
   Views: number;
-  CreatedAt: Date;
+  createdAt: Date;
 };
